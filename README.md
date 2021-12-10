@@ -1,5 +1,5 @@
-### Ths is a snake in one (three) String!
+## Ths is a snake in one (three) String!
 
-## Usage
+### Usage
 
 Run main.py file and play!
